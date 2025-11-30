@@ -25,5 +25,5 @@
         <activity android:name=".MainActivity" />
         <activity android:name=".ui.usuario.CadastroUsuarioActivity" />
     </application>
-
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
 </manifest>
